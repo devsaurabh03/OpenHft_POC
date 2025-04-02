@@ -1,0 +1,1 @@
+--add-exports=jdk.compiler/com.sun.tools.javac.file=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED
